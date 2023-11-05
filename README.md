@@ -58,7 +58,7 @@
 
 ##### Position:
 
-  - iOS Software engineer (in group of 3 iOS developers).
+  - iOS Software Engineer (in group of 3 iOS developers).
 
 ###### Key Featues:
 
