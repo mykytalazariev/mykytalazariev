@@ -26,7 +26,6 @@
   - Jira
   - Confluence
   - GitHub, Gitlab, Bitbucket
-  - XcodeCloud
   - Slack
 
 ## 🧰 Instruments, Approaches and Frameworks those I primarily work with:
@@ -42,6 +41,7 @@
   - Core Animation
   - CoreLocation
   - URLSession, Alamofire / Moya
+  - XcodeCloud (CI/CD)
   - Realm / CoreData
   - Apple Maps / Google Maps
   - Firebase
