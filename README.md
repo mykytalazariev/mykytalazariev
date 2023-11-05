@@ -50,6 +50,7 @@
   - OneSignal
   - LocalAuthentication
   - StoreKit
+  - and more...
 
 ## 🗂 Here's the list of some of my projects:
 
