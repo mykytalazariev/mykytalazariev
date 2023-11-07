@@ -15,7 +15,7 @@
 ## 📫 How to reach me: 
 
   - application2311@gmail.com or m.lazariev97@gmail.com
-  - [Linkedin](www.linkedin.com/in/mykyta-lazariev-2bb497162)
+  - [Linkedin](https://www.linkedin.com/in/mykyta-lazariev-2bb497162)
 
 ## 🛠 Tools those I primarily use:
 
