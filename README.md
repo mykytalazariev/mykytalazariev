@@ -2,7 +2,7 @@
 
 ## Hello there, I am Mykyta
 
-## I’m currently working as a freelancer iOS Software Engineer 
+## I’m currently open to a freelance position as iOS Software Engineer 
 
 ## 😍 I love:
 
