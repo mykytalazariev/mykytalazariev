@@ -45,6 +45,7 @@
 ### **Frameworks and Libraries:**
 - UIKit, SwiftUI
 - RXSwift, Combine
+- XCTest
 - CoreGraphics, CoreAnimation
 - Lottie
 - Foundation, AVFoundation
@@ -61,10 +62,9 @@
 - Zeplin, Figma
 
 ### **Tools and Technologies:**
-- Version Control: Git (Bitbucket, GitHub, GitLab)
 - CI/CD: XcodeCloud, AppCenter
 - App Distribution: Firebase, AppCenter, TestFlight, Diawi
-- Automated Testing: XCTest (Unit Tests, UI Tests)
+- Automated Testing: Unit Tests, UI Tests
 - Task Managers: Jira, Zenhub, Trello
 - App Provisioning & Signing
 - AppStore Connect
