@@ -2,7 +2,7 @@
 
 ## Hello there, I am Mykyta
 
-## I’m currently open to a freelancer or a permanent employee position as iOS Software Engineer 
+## I’m currently open to a freelancer or a permanent employee position as **iOS Software Engineer**
 
 ## 😍 I love:
 
