@@ -30,27 +30,54 @@
 
 ## 🧰 Instruments, Approaches and Frameworks those I primarily work with:
 
-  - Clean Architecture + MVVM, VIPER, CleanSwift, MVP
-  - Swift
-  - Foundation
-  - UIKit
-  - SwiftUI
-  - Combine
-  - AVFoundation
-  - CoreGraphics
-  - Core Animation
-  - CoreLocation
-  - URLSession, Alamofire / Moya
-  - XcodeCloud (CI/CD)
-  - Realm / CoreData
-  - Apple Maps / Google Maps
-  - Firebase
-  - Google SDK
-  - Facebook SDK
-  - OneSignal
-  - LocalAuthentication
-  - StoreKit
-  - and more...
+### **Design Patterns:**
+- Clean Architecture (Modular Clean Architecture approach)
+- MVVM, MVVM+C
+- VIPER
+- Clean Swift
+- MVC
+- MVP+R
+
+### **Programming Languages:**
+- Swift (primary programming language)
+- Objective-C (secondary, reading and understanding code, creating simple solutions)
+
+### **Frameworks and Libraries:**
+- UIKit, SwiftUI
+- RXSwift, Combine
+- CoreGraphics, CoreAnimation
+- Lottie
+- Foundation, AVFoundation
+- Alamofire, Moya, URLSession
+- Realm, CoreData, SQLite
+- CloudKit
+- CoreLocation
+- Firebase (Realtime Database, Analytics, Storage, Cloud Messaging, Authentication, Cloud Functions, Crashlytics, Remote Config, App Distribution)
+- Google SDK, Facebook SDK, Mobile BankID
+- LocalAuthentication
+- StoreKit, Stripe, In-App Purchases
+- SwiftWebSocket
+- UserNotifications, Firebase Cloud Messaging, OneSignal
+- Zeplin, Figma
+
+### **Tools and Technologies:**
+- Version Control: Git (Bitbucket, GitHub, GitLab)
+- CI/CD: XcodeCloud, AppCenter
+- App Distribution: Firebase, AppCenter, TestFlight, Diawi
+- Automated Testing: XCTest (Unit Tests, UI Tests)
+- Task Managers: Jira, Zenhub, Trello
+- App Provisioning & Signing
+- AppStore Connect
+
+### **Skills:**
+- REST API (Alamofire, URLSession), GraphQL (Apollo)
+- Maps, Geolocation, Navigation (Apple Maps, Google Maps, MapBox)
+- Local Storage (Core Data, Realm, UserDefaults, Keychain)
+- Multithreading (GCD, Modern Concurrency)
+- Asset Autogeneration (SwiftGen)
+- Media Players (AVFoundation, Youtube player)
+- App Development: watchOS, tvOS
+
 
 ## 🗂 Here's the list of some of my projects:
 
