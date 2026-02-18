@@ -44,7 +44,7 @@
 
 ### **Frameworks and Libraries:**
 - UIKit, SwiftUI
-- RXSwift, Combine
+- RXSwift, Combine, Swift Concurrency
 - XCTest
 - CoreGraphics, CoreAnimation
 - Lottie
